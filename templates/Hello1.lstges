@@ -1,4 +1,0 @@
-﻿0,{"$type":".RootFolder, LuaSTGEditorSharp","Attributes":[{"attrCap":"Name","attrInput":"File","EditWindow":""}],"AttributeCount":1}
-1,{"$type":".ProjSettings, LuaSTGEditorSharp","Attributes":[{"attrCap":"Output Name","attrInput":"","EditWindow":""},{"attrCap":"Author","attrInput":"LuaSTG User","EditWindow":""},{"attrCap":"Allow practice","attrInput":"true","EditWindow":"bool"},{"attrCap":"Allow sc practice","attrInput":"true","EditWindow":"bool"},{"attrCap":"Mod version","attrInput":"4096","EditWindow":""}],"AttributeCount":5}
-1,{"$type":".EditorVersion, LuaSTGEditorSharp","Attributes":[{"attrCap":"Editor version","attrInput":"0.77.2.0","EditWindow":""}],"AttributeCount":1}
-1,{"$type":".General.Code, LuaSTGEditorSharp","Attributes":[{"attrCap":"Code","attrInput":"local str = \"Hello :D\"","EditWindow":"code"}],"IsSelected":true,"AttributeCount":1}
